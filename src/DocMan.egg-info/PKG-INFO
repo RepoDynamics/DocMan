@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: DocMan
-Version: 0.0.0.dev5
-Requires-Python: >=3.10
-Requires-Dist: PyBadger
-Requires-Dist: PySerials
-Requires-Dist: MarkItUp
-Requires-Dist: PyLinks
-Requires-Dist: PyColorIt

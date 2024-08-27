@@ -1,5 +1,0 @@
-PyBadger
-PySerials
-MarkItUp
-PyLinks
-PyColorIt

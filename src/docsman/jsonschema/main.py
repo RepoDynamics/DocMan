@@ -2,7 +2,7 @@ from pathlib import Path as _Path
 
 import markitup as _miu
 import pyserials as _ps
-from controlman.file_gen.docs import markdown as _md, jsonschema as _schema, text as _text
+# from controlman.file_gen.docs import markdown as _md, jsonschema as _schema, text as _text
 
 
 #TODO: Replace ${‎{ name }}
